@@ -28,6 +28,6 @@ I'm a **Data Science Educator** passionate about **data management**, **machine 
 - **Data & ML libraries:** Pytorch, Scikit-Learn, Statsmodels, Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Databases:** PostgreSQL, Microsoft Access
-- **API / Webapps:** FastAPI, Django, Flask
+- **API / Webapps:** Streamlit, Django, Flask
 
 I'm best reached via [email](alexis.bogroff.contact@gmail.com) or on [Linkedin](https://www.linkedin.com/in/alexisbogroff/). I'm always open to interesting conversations and collaborations. 
